@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/langchainupdated/.venv/bin/python",
+  "python.envFile": "${workspaceFolder}/langchainupdated/.env",
+  "jupyter.notebookFileRoot": "${fileDirname}"
+}
